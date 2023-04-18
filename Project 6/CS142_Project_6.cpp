@@ -19,7 +19,7 @@ int main()
       //strlen will find the length of a string and use it as word
       reversedWord(word, strlen(word));
 	    std::cout<<word<<std::endl;
-      std::cout<<"Would you like to continue? ";
+      std::cout<<"Would you like to continue? (Y or N)";
       std::cin>>answer;
     } 
     while (answer != 'N'&& answer =='Y');
