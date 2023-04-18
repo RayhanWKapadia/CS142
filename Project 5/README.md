@@ -1,0 +1,1 @@
+The purpose of this program is to read in a file that gives a list of grades and calculate the letter grade based on this. The letter grade will then be printed onto a file. *IMPORTANT* The file that the user should read in the grades.txt while the letterGrade.txt is used print out the grade. 
